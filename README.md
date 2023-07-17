@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Uddeshya 
+- 👋 Hi, I’m @Paurush
 - 📚 Currently Exploring Low Code and Angular
-- 💡 Built my personal portfolio website using Typedream.io, Have a look: https://uddeshya.typedream.app/
-- 👀 I’m interested in Java, React, Spring Boot and Postgre/MongoDB.
+- 👀 I’m interested in Java, Data Structures, Microservices React, Spring Boot and Postgre/MongoDB.
 - 🌱 I’m currently learning React, NodeJS, Azure, DevOPS.
 - 💞️ I’m looking to collaborate on React, Azure $ DevOPS.
-- 📫 How to reach me uddeshya.us@gmail.com.
+- 📫 How to reach me paurush.ram@gmail.com.
   
   <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
@@ -64,12 +63,12 @@
 <br>
   
 # Social Links
-[![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=social&logo=Linkedin)](https://www.linkedin.com/in/uddeshyasharma/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=social&logo=Linkedin)](https://www.linkedin.com/in/paurushsharma/)
 
 # Github Cards
-[![Github](https://github-readme-stats.vercel.app/api/top-langs?username=Uddeshya08&show_icons=true&locale=en&layout=compact&theme=dark)]()
+[![Github](https://github-readme-stats.vercel.app/api/top-langs?username=paurush1710&show_icons=true&locale=en&layout=compact&theme=dark)]()
 <br>
-[![Github](https://github-readme-stats.vercel.app/api?username=Uddeshya08&show_icons=true&locale=en&theme=dark)]()
+[![Github](https://github-readme-stats.vercel.app/api?username=paurush1710&show_icons=true&locale=en&theme=dark)]()
 <br>
-[![Github](https://github-readme-streak-stats.herokuapp.com/?user=Uddeshya08&theme=dark)]()
-[![Github](https://github-profile-trophy.vercel.app/?username=Uddeshya08)]()
+[![Github](https://github-readme-streak-stats.herokuapp.com/?user=paurush1710&theme=dark)]()
+[![Github](https://github-profile-trophy.vercel.app/?username=paurush1710)]()
