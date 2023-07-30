@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Paurush
 - 📚 Currently Exploring Low Code and Angular
 - 👀 I’m interested in Java, Data Structures, Microservices React, Spring Boot and Postgre/MongoDB.
-- 🌱 I’m currently learning React, NodeJS, Azure, DevOPS.
-- 💞️ I’m looking to collaborate on React, Azure $ DevOPS.
+- 🌱 I’m currently learning Angular, Typescript, Azure, DevOPS.
+- 💞️ I’m looking to collaborate on Angular, Azure $ DevOPS.
 - 📫 How to reach me paurush.ram@gmail.com.
   
   <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
